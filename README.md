@@ -1,10 +1,5 @@
-# nextTutorial
-My first WebApp with nextjs :)
+## Next.js App Router Course - Starter
 
-Es increíble como simplifica el trabajo "next.js", simplemente extraordinario. 
-Este es un repositorio, en el que probaré la conexión con la base de datos.
-Sin ánimo de hacer más spam en esta plataforma, me despido de momento.
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-
-😻
-
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
